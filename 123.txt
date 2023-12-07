@@ -2,3 +2,5 @@ Este archivo es de prueba1
 
 se añaden varias lineas
 ---
+
+se añade mas texto en archivo texto
